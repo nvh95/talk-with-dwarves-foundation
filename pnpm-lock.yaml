@@ -4,11 +4,13 @@ specifiers:
   '@slidev/cli': 0.35.5
   '@slidev/theme-default': '*'
   '@slidev/theme-seriph': '*'
+  netlify-plugin-playwright-cache: ^0.0.1
 
 dependencies:
   '@slidev/cli': 0.35.5_postcss@8.4.22
   '@slidev/theme-default': 0.21.2
   '@slidev/theme-seriph': 0.21.3
+  netlify-plugin-playwright-cache: 0.0.1
 
 packages:
 
@@ -2756,6 +2758,10 @@ packages:
     resolution: {integrity: sha512-7ZtY5KTCNheRGfEFxnedV5zFiORN1+Y1N6zvPTnHQd8ENUvfaDBeuJDZb2bN/oXwXxu3qkTXDzy57W5vAmDTBw==}
     engines: {node: ^14 || ^16 || >=18}
     hasBin: true
+    dev: false
+
+  /netlify-plugin-playwright-cache/0.0.1:
+    resolution: {integrity: sha512-FECC4DtoYKpGGUNevxXVTE0GdD5LYSWwTPJpHv/WW4VlviTle8QlKBvF3Exfm48TDvZCUR3ofX1Zz+cJWOWBWA==}
     dev: false
 
   /node-fetch-native/0.1.8:

@@ -9,6 +9,7 @@
   "dependencies": {
     "@slidev/cli": "0.35.5",
     "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/theme-seriph": "*",
+    "netlify-plugin-playwright-cache": "^0.0.1"
   }
 }
