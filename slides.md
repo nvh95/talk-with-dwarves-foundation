@@ -464,4 +464,4 @@ Q&A
 
 <p class="text-xs">Try <a href="https://github.com/nvh95/jest-preview" target="_blank">Jest Preview</a> and <a href="https://github.com/nvh95/vitest-preview" target="_blank">Vitest Preview</a> and give it a star since it's free 😝</p>
 
-<small>Slides available (and open source) soon at <a href="https://facebook.com/hungdotdev" target="_blank">https://facebook.com/hungdotdev</a></small>
+<small>Slides available (and open source) at <a href="https://talkwithdf.hung.dev" target="_blank">https://talkwithdf.hung.dev</a></small>
