@@ -10,6 +10,7 @@
     "@slidev/cli": "0.35.5",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
-    "netlify-plugin-playwright-cache": "^0.0.1"
+    "netlify-plugin-playwright-cache": "^0.0.1",
+    "playwright-chromium": "^1.32.3"
   }
 }
